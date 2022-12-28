@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tanu-chouhan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanu-chouhan&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-chouhan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanu-chouhan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanu-chouhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
